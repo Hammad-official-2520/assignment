@@ -127,13 +127,38 @@
 
 
 
-// function cashier(){
-//     var tenRUPES = 10
-//     var fiftyRUPES = 50
-//     var hundredRUPES = 100
-//     var total = withDRAW 
-//     var withDRAW = +prompt("Enter Withdraw amount!")
-//     document.write("You will have ", hundredRUPES ," hundred notes " , fiftyRUPES ," Fifty notes " , tenRUPES , "ten notes")
-// }
-// cashier()
+// var hundred=0
+// var fifty=0
+// var ten = 0
+// var input = +prompt("Enter Withdraw amount!!")
 
+// for (var i = input; i=>100 ; i=input){
+    
+//         input=i-100;
+//         hundred = ++hundred
+    
+    
+    
+// }
+
+// for (var i = input; i=>50 ; i=input){
+    
+//     input=i-50;
+//     fifty = ++fifty
+
+
+
+// }
+
+// for (var i = input; i=>10 ; i=input){
+    
+//     input=i-10;
+//     ten = ++ten
+
+
+
+// }
+// console.log(hundred)
+// console.log(fifty)
+// console.log(ten)
+// alert("you have to return " + hundred+" hundred notes " +fifty+" fifty notes and "+ten+" ten notes")
