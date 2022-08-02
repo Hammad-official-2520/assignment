@@ -53,20 +53,87 @@
 // mainFunction()
 
 
-var b = prompt("Find the index of words in character");
-function indexOf(){
-    var a = "character";
-    for(i = 0; i <= a.length; i++){
-        if(a[i] === b){
-            return i;
-            console.log(i)
-        }
-    };
-}
-//         }else{
-//             return-1;
-//         }
+// var distance = prompt("Enter distance two cities");
+// function kmInMetres(){
+//     document.write("<h1> The " + distance + " KM is equal to " + distance * 1000 + " metres.</h1>");
 // }
+// kmInMetres();
+// function kmInfeet(){
+//     document.write("<h1> The " + distance + " KM is equal to " + distance * 3280 + " feets.</h1>");
+// }
+// kmInfeet();
+// function kmInInches(){
+//     document.write("<h1> The " + distance + " KM is equal to " + distance * 39370 + " Inches.</h1>");
+// }
+// kmInInches();
+// function kmInCentiMetres(){
+//     document.write("<h1> The " + distance + " KM is equal to " + distance * 100000 + " Centimetres.</h1>");
+// }
+// kmInCentiMetres();
 
+// var str = prompt("Enter a paragraph");
+// var k = 0;
+//     var spl=str.match(/.{0,2}/g);
+//     for(var i=0;i<spl.length;i++)
+//     {
+//         if(spl[i]=='aa'||spl[i]=='ea'||spl[i]=='ia'||spl[i]=='oa'||
+//         spl[i]=='ua'||spl[i]=='ae'||spl[i]=='ee'||spl[i]=='ie'||
+//         spl[i]=='oe'||spl[i]=='ue'||spl[i]=='ai'||spl[i]=='ei'||
+//         spl[i]=='ii'||spl[i]=='oi'||spl[i]=='ui'||spl[i]=='ao'||
+//         spl[i]=='eo'||spl[i]=='io'||spl[i]=='oo'||spl[i]=='uo'||
+//         spl[i]=='au'||spl[i]=='eu'||spl[i]=='iu'||spl[i]=='ou'||
+//         spl[i]=='uu')
+//         {
+//             k++;     
+//         }
+//     }
+//     alert(k + 1)
+    
+// function salaryCalculation(a,b){
+//         document.write("<h1> The overtime of " + a + " hours is " + a*b + "</h1>");
+    
+//     }
+//     salaryCalculation(40,12);
+    
+
+// var userInput = prompt("Enter the string to count two vowels in succetion : ");
+// var answer = deleteVowelsS(userInput);
+// alert("The vowels in succetion are " + answer +" times");
+// function deleteVowelsS(str)
+// {
+//     var k=0;
+//     var spl=str.match(/.{0,2}/g);
+//     for(var i=0;i<spl.length;i++)
+//     {
+//         if(spl[i]=='aa'||spl[i]=='ea'||spl[i]=='ia'||spl[i]=='oa'||
+//         spl[i]=='ua'||spl[i]=='ae'||spl[i]=='ee'||spl[i]=='ie'||
+//         spl[i]=='oe'||spl[i]=='ue'||spl[i]=='ai'||spl[i]=='ei'||
+//         spl[i]=='ii'||spl[i]=='oi'||spl[i]=='ui'||spl[i]=='ao'||
+//         spl[i]=='eo'||spl[i]=='io'||spl[i]=='oo'||spl[i]=='uo'||
+//         spl[i]=='au'||spl[i]=='eu'||spl[i]=='iu'||spl[i]=='ou'||
+//         spl[i]=='uu')
+//         {
+//             k++;     
+//         }
+//     }
+//     return k + 1;
+    
+// } 
+
+// 
+ 
+
+////////////////////////////////////////////Question 10 not complete//////////////////////////////////////////
+
+
+
+// function cashier(){
+//     var tenRUPES = 10
+//     var fiftyRUPES = 50
+//     var hundredRUPES = 100
+//     var total = withDRAW 
+//     var withDRAW = +prompt("Enter Withdraw amount!")
+//     document.write("You will have ", hundredRUPES ," hundred notes " , fiftyRUPES ," Fifty notes " , tenRUPES , "ten notes")
 // }
-//  console.log(indexOf(i\));
+// cashier()
+
